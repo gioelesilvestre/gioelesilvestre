@@ -6,8 +6,8 @@ p {
 
 h2 {
     font-family: Josefin Sans;
-    margin-left: 8%;
-    margin-top: 0px;
+    margin-left: 9.2%;
+    margin-top: 50px;
 }
 
 h3 { 
@@ -15,6 +15,19 @@ h3 {
 }
 a {
   color: #B7A912
+}
+
+.grid_text {
+  font-family: Josefin Sans;
+  margin-left: 20px;
+  margin-top: -10px;
+}
+
+.grid_text_2 {
+  font-family: Josefin Sans;
+  color: #808080;
+  margin-left: 20px;
+  margin-top: -14px;
 }
 
 figcaption {
@@ -58,10 +71,17 @@ figcaption {
 }
 
 .gallery img {
-  width: 360px;
+  width: 400px;
   height: auto;
   display: flex;
   margin: 20px
 }
 
+.coda {
+  height: 80px;
+  width: 100%;
+  background-color: #808080;
+  position: fixed;
+  bottom: 0px;
 
+}
