@@ -1,20 +1,20 @@
 p {
   font-size: 1.4em;
-  margin-left: 9.2%;
+  margin-left: 10%;
   font-family: Josefin Sans;
   width: 80%;
 }
 
 h2 {
     font-family: Josefin Sans;
-    margin-left: 9.2%;
+    margin-left: 10%;
     margin-top: 50px;
     font-size: 2em;
 }
 
 h3 { 
   font-family: Josefin Sans;
-  margin-left: 9.2%;
+  margin-left: 10%;
 }
 
 a {
@@ -23,22 +23,22 @@ a {
 
 .img_pages {
   width: 80%;
-  margin-left: 9.2%;
+  margin-left: 10%;
 }
 
 .grid_text {
   font-family: Josefin Sans;
-  margin-left: 20px;
-  margin-top: -10px;
+  margin-top: 10px;
   font-size: 1.4em;
+  margin-left: 0px;
 }
 
 .grid_text_2 {
   font-family: Josefin Sans;
   color: #808080;
-  margin-left: 20px;
-  margin-top: -14px;
+  margin-top: -15px;
   font-size: 1.4em;
+  margin-left: 0px;
 }
 
 figcaption {
@@ -78,21 +78,19 @@ figcaption {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-  margin-left: 8%;
 }
 
 .gallery img {
   width: 400px;
   height: auto;
   display: flex;
-  margin: 20px
 }
 
 .griglia_2x2 {
   display: flex;
   flex-flow: wrap;
   width: 90%;
-  margin-left: 9.2%;
+  margin-left: 10%;
 }
 
 .griglia_2x2 img {
