@@ -82,7 +82,7 @@ figcaption {
 
 .gallery img {
   width: 400px;
-  max-width: 85%;
+  max-width: 90%;
   height: auto;
   display: flex;
 }
