@@ -1,5 +1,6 @@
 p {
-  margin-left: 8%;
+  font-size: 1.4em;
+  margin-left: 9.2%;
   font-family: Josefin Sans;
   width: 80%;
 }
@@ -8,19 +9,28 @@ h2 {
     font-family: Josefin Sans;
     margin-left: 9.2%;
     margin-top: 50px;
+    font-size: 2em;
 }
 
 h3 { 
   font-family: Josefin Sans;
+  margin-left: 9.2%;
 }
+
 a {
   color: #B7A912
+}
+
+.img_pages {
+  width: 80%;
+  margin-left: 9.2%;
 }
 
 .grid_text {
   font-family: Josefin Sans;
   margin-left: 20px;
   margin-top: -10px;
+  font-size: 1.4em;
 }
 
 .grid_text_2 {
@@ -28,6 +38,7 @@ a {
   color: #808080;
   margin-left: 20px;
   margin-top: -14px;
+  font-size: 1.4em;
 }
 
 figcaption {
@@ -75,6 +86,18 @@ figcaption {
   height: auto;
   display: flex;
   margin: 20px
+}
+
+.griglia_2x2 {
+  display: flex;
+  flex-flow: wrap;
+  width: 90%;
+  margin-left: 9.2%;
+}
+
+.griglia_2x2 img {
+  width: 45%;
+  height: auto;
 }
 
 .coda {
