@@ -34,6 +34,7 @@ a {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  width: 96%;
 }
 
 .grid_text_2 {
