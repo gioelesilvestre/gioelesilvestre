@@ -17,10 +17,6 @@ h3 {
   margin-left: 10%;
 }
 
-a {
-
-}
-
 .img_pages {
   width: 80%;
   margin-left: 10%;
@@ -31,6 +27,9 @@ a {
   margin-top: 10px;
   font-size: 1.4em;
   margin-left: 0px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .grid_text_2 {
@@ -105,5 +104,14 @@ figcaption {
   background-color: #808080;
   position: fixed;
   bottom: 0px;
+  font-size: min(0.5em, 1vw);
+  white-space: nowrap;
+  line-height: 1.1;
+  color: #E5D955;
+}
 
+.titoli {
+  font-size: min(1.6em, 3.4vw);
+  white-space: nowrap;
+  line-height: 1.1;
 }
