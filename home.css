@@ -1,0 +1,60 @@
+h1 {
+    font-family: Josefin Sans;
+}
+
+h2 {
+    font-family: Josefin Sans;
+}
+
+h3 {
+    font-family: Josefin Sans;
+}
+
+p {
+    font-family: Josefin Sans;
+}
+
+a {
+    font-family: Josefin Sans;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(6, 160px);
+    grid-auto-rows: 160px;
+    gap: 2px;
+}
+
+.cas-piccola {
+    height: 100%;
+    width: 100%;
+}
+
+.cas-grande {
+    height: 100%;
+    width: 100%;
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+.cont-cas {
+    margin: 8px
+}
+
+.finetesto {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.immagine-casuale {
+    overflow: hidden;
+    position: relative;
+}
+
+.immagine-casuale img {
+    height:100%;
+    width:100%;
+    object-fit: cover;
+    object-position: center;
+}
