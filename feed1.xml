@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>gioele_silvestre // portfolio</title>
+  <link>https://gioelesilvestre.github.io/gioelesilvestre</link>
+  <description>Gli ultimi progetti a cui ho lavorato</description>
+  
+  <item>
+    <title>L'esprit de L'escalier</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/trailerlespritdelescalier.html</link>
+    <pubDate></pubDate>
+  </item>
+
+  <item>
+    <title>Spiraluna</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/spiraluna1.html</link>
+    <pubDate></pubDate>
+  </item>
+
+  <item>
+    <title>Music Village Portogruaro</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/musicvillage2.html</link>
+    <pubDate></pubDate>
+  </item>
+
+  <item>
+    <title>Pervieni alla mia Lingua</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/pervieniallamialingua.html</link>
+    <pubDate></pubDate>
+  </item>
+
+  <item>
+    <title>Le Sottotrame di un Set</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/lesottotramediunset.html</link>
+    <pubDate></pubDate>
+  </item>
+  
+  <item>
+    <title>Venezia Comics</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/vcs25.html</link>
+    <pubDate></pubDate>
+  </item>
+    
+  <item>
+    <title>Progetto in collaborazione</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/fotodisegnate.html</link>
+    <pubDate></pubDate>
+  </item>
+   
+  <item>
+    <title>The Alarm</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/thealarm.html</link>
+    <pubDate></pubDate>
+  </item>
+     
+  <item>
+    <title>Sette Interviste per Saperi e Sapori 2023</title>
+    <link>https://gioelesilvestre.github.io/gioelesilvestre/setteinterviste.html</link>
+    <pubDate></pubDate>
+  </item>
+
+</channel>
+</rss>
