@@ -4,10 +4,12 @@ h1 {
 
 h2 {
     font-family: Josefin Sans;
+    margin-top:0px;
 }
 
 h3 {
     font-family: Josefin Sans;
+    margin-top:0px;
 }
 
 p {
@@ -38,7 +40,9 @@ a {
 }
 
 .cont-cas {
-    margin: 8px
+    margin: 8px;
+    background-color: #fffce7;
+    padding: 4px;
 }
 
 .finetesto {
