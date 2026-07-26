@@ -1,0 +1,72 @@
+h1 {
+    color: #000;
+    margin: -2px;
+    margin-top: 4px;
+    font-family: Josefin Sans;
+}
+
+h2 {
+    color: #E555A2;
+    margin: -2px;
+    margin-top: 4px;
+    font-family: Josefin Sans;
+}
+
+h3 {
+    font-size: 1.4em;
+    color: #E555A2;
+    font-family: Josefin Sans;
+    margin-top: 6px;
+    margin-bottom: 8px;
+}
+
+p {
+    font-size: 1.3em;
+    font-family: SylexiadSansMedium;
+}
+
+.margine {
+    margin: 1px;
+}
+
+.full {
+    width: 1080px;
+}
+
+.giallo {
+    background-color: #E5D955;
+}
+
+.colonna {
+    float: left;
+    height: 720px;
+    margin-right: 2px;
+}
+
+.col1 {
+    background-color: #E5D955;
+    width: 80px;
+}
+
+.col2 {
+    background-color: #C0C0C0;
+    width: 800px;
+    overflow-y: scroll;
+}
+
+.col3 {
+    background-color: #E555A2;
+    width: 200px;
+}
+
+.safe {
+    margin: 40px;
+}
+
+@font-face {
+	font-family: 'SylexiadSansMedium';
+	src: url('SylexiadSansMedium.ttf') format('opentype'),
+       url('SylexiadSansMedium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
