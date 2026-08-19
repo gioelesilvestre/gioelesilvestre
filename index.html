@@ -44,9 +44,8 @@
                 <div class="cont-cas">
                     <h3>Blog:</h2>
                     
-                    Nulla per ora!
-                    <!-- <a href="castorialvapore" class="finetesto">Lorem</a>
-                    <hr> --->
+                    Ancora nulla
+                    <ul id="latest-post"></ul>
                 </div>
             </div>
         
@@ -93,7 +92,7 @@
                 
             <div class="cas-grande immagine-casuale">
                 <div style="background-color: #55E593;">
-                    <p style="margin:2px;margin-left:8px">La foto casuale:</p>
+                    <p style="margin:0px;margin-left:8px;padding-top:3px;margin-bottom: 2px;">La foto casuale:</p>
                 </div>
                 <script style="object-fit: cover;object-position: center;">
                     const img = [
@@ -113,7 +112,8 @@
                         'img/DSC5413.jpg',
                         'img/DSC5431.jpg',
                         'img/DSC5489.jpg',
-                        'img/DSC_5889.jpg',                        
+                        'img/DSC_5889.jpg',
+                        'img/DSC_5898.jpg',
                         'img/DSF7916.jpg',
                         'img/DSC_8535.jpg',
                     ];
@@ -148,7 +148,10 @@
             </div>
 
             <div class="cas-piccola" style="background-color: #cccccc">
-
+                <div class="cont-cas">
+                    <div id="visits" style="background-color: #E5D955; width: 48px;">...</div>
+                    <p style="margin-top:5px; margin-bottom:2px;font-size: smaller;">...ovvero il numero di volte in cui a qualcuno è venuta la brutta idea di connettersi a questo sito</p>
+                </div>
             </div>
         
         
@@ -157,5 +160,14 @@
     Gioele Silvestre (c) 2026 - se questo sito vi sembra vecchio siete voi che andate troppo veloci<!-- <a href="">riguardo questo sito</a> -->
     <br>
     <img src="img/colori.png" width="970px">
+
+    <script>
+        function cb(response) {
+        document.getElementById('visits').innerText = response.value;
+        }
+        </script>
+        <script async src="https://abacus.jasoncameron.dev/hit/gioelesilvestre.github.io/visits?callback=cb"></script>
+    
 </body>
 </html>
+

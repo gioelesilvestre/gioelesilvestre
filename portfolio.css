@@ -21,6 +21,11 @@ a {
   font-family: Josefin Sans;
 }
 
+button {
+  height: 32px;
+  border: 0px;
+}
+
 .img_pages {
   width: 80%;
   margin-left: 10%;
