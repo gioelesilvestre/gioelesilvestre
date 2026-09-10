@@ -63,6 +63,23 @@ p {
     margin: 40px;
 }
 
+.controls-top {
+    margin: 0px;
+    height: 32px;
+}
+
+.back-color-r {
+    background-color: #E555A2;
+}
+
+.back-color-y {
+    background-color: #E5D955;
+}
+
+.back-color-g {
+    background-color: #55E593;
+}
+
 @font-face {
 	font-family: 'SylexiadSansMedium';
 	src: url('SylexiadSansMedium.ttf') format('opentype'),
@@ -70,3 +87,4 @@ p {
 	font-weight: 500;
 	font-style: normal;
 }
+

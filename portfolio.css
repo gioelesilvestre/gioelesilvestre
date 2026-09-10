@@ -96,6 +96,19 @@ figcaption {
   display: flex;
 }
 
+.gallery2 {
+  width: 96%;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+}
+
+.gallery2 img {
+  width: 380px;
+  height: auto;
+  display: flex;
+}
+
 .griglia_2x2 {
   display: flex;
   flex-flow: wrap;
