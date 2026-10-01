@@ -64,4 +64,9 @@ figcaption {
   margin: 20px
 }
 
-
+@font-face {
+	font-family: 'SylexiadSansMedium';
+	src: url('JosefinSans-VariableFont_wght.ttf') format('opentype');
+	font-weight: 500;
+	font-style: normal;
+}
