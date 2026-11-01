@@ -88,3 +88,26 @@ p {
 	font-style: normal;
 }
 
+.gallery img {
+  width: 400px;
+  max-width: 95%;
+  height: auto;
+  display: flex;
+}
+
+.gallery2 {
+  width: 96%;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+}
+
+.gallery2 img {
+  width: 380px;
+  height: auto;
+  display: flex;
+}
+
+.bg_giallo {
+    background-color:#E5D955
+}
